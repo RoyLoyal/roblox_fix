@@ -1,0 +1,32 @@
+{
+  "FLogNetwork": "7",
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+  "DFIntTaskSchedulerTargetFps": "999",
+  "DFFlagDisableDPIScale": "True",
+  "DFIntMaxFrameBufferSize": "6",
+  "FFlagRenderCheckThreading": "True",
+  "FIntTaskSchedulerThreadMin": "8",
+  "FFlagEnableQuickGameLaunch": "True",
+  "FStringFeature_WindowsUseHardwareCursor": "True",
+
+  "FFlagDisablePostFx": "True",
+  "FIntRenderGrassDetailStrands": "0",
+  "FIntFRMMinGrassDistance": "0",
+  "FIntFRMMaxGrassDistance": "0",
+  
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "FIntDebugForceMSAASamples": "4",
+  "FFlagFixGraphicsQuality": "True",
+  "DFIntDebugFRMQualityLevelOverride": "6",
+  "DFIntTextureQualityOverride": "3",
+
+  "FFlagOptimizeNetwork": "True",
+  "FFlagOptimizeNetworkRouting": "True",
+  "FFlagOptimizeNetworkTransport": "True",
+  "DFIntConnectionMTUSize": "1400",
+  "FFlagNewNetworking": "True",
+  "FFlagEnableNewInput": "True",
+  "FFlagEnableHumanoidLuaSideCaching": "True"
+}
